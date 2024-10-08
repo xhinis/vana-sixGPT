@@ -82,6 +82,11 @@ git clone https://github.com/sixgpt/miner.git vanacgpt
 
 ```
 
+
+```bash
+cd vanacgpt
+
+```
 **Add your wallet private key**
 
 ```bash
